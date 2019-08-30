@@ -9,3 +9,7 @@ Project Manager 笔记
 ##### 项目管理 A 类资料参考
 
 * [【模板】完整的项目管理可参考华为这10张表格](https://zhuanlan.zhihu.com/p/32724062)
+
+* [干货｜鱼骨图分析法](https://zhuanlan.zhihu.com/p/38280648)
+
+* [PDCA 四步法，帮你轻松搞定任何事！](https://zhuanlan.zhihu.com/p/35966201)
